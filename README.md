@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlumbierres
-- 👀 I’m interested in pass php course 
-- 🌱 I’m currently learning php
+- 👀 I’m interested in be a DJ
+- 🌱 I’m currently learning the basics of a DJ
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jlumbierres21@gmail.com
 
